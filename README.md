@@ -1,4 +1,5 @@
 <img width="1197" height="1031" alt="image" src="https://github.com/user-attachments/assets/5e672a42-2344-4544-b44f-221f8e3d3262" />
+<img width="1018" height="922" alt="image" src="https://github.com/user-attachments/assets/8afc75ab-af10-49da-aeee-2daf24a42630" />
 
 
 # PDF 自动裁剪与重命名工具
